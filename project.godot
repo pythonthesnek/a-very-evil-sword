@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="a_very_evil_sword"
+run/main_scene="res://scenes/map/prototype_v_1.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
